@@ -42,6 +42,9 @@ This repository contains an exploratory data analysis (EDA) project focused on c
 2. Develop a dashboard using Plotly or Streamlit
 
 📁 File Structure
+
 📦 Coffee_Sales_Analysis
+
  ┣ 📜 Coffee_Sales_Analysis.ipynb
+ 
  ┗ 📄 README.md
