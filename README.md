@@ -43,8 +43,8 @@ This repository contains an exploratory data analysis (EDA) project focused on c
 
 📁 File Structure
 
-📦 Coffee_Sales_Analysis
+  📦 Coffee_Sales_Analysis
 
- ┣ 📜 Coffee_Sales_Analysis.ipynb
+      ┣ 📜 Coffee_Sales_Analysis.ipynb
  
- ┗ 📄 README.md
+      ┗ 📄 README.md
